@@ -8,6 +8,8 @@ My projects
 
 [Text Adventure game with React](https://github.com/AlexanderRyb/Text_Adventure_Game)
 
+[Responsive layout with Bootstrap](https://github.com/AlexanderRyb/responsive-bootstrap-layout)
+
 <!---
 AlexanderRyb/AlexanderRyb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
